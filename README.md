@@ -1,6 +1,4 @@
-<img src="assets/header.svg" alt="Jaivardhan Singh, AI/ML Engineer" width="800">
-
-**AI/ML Engineer** · LLM evaluation & cost optimization · agentic systems · model training
+<img src="assets/banner.svg" alt="Jaivardhan Singh, AI/ML Engineer" width="100%">
 
 B.Tech Data Science (Amity University, Noida, 2027). Four internships done before the first semester of final year. Currently an ML Intern at KAABIL, running the evaluation and cost side of a production LLM stack.
 
