@@ -1,4 +1,4 @@
-# Hi, I'm Jaivardhan Singh
+<img src="assets/header.svg" alt="Jaivardhan Singh, AI/ML Engineer" width="800">
 
 **AI/ML Engineer** · LLM evaluation & cost optimization · agentic systems · model training
 
