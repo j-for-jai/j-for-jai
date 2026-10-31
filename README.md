@@ -37,3 +37,5 @@ B.Tech Data Science (Amity University, Noida, 2027). Four internships done befor
 - Top 20, Celebal Technologies Hackathon
 - Runner-up, university hackathon (₹30,000 prize)
 - [AWS Academy Graduate: Cloud Foundations](https://www.credly.com/badges/a8feac3a-aee4-4bfd-a66e-ef3a5f4e5650/public_url)
+
+<sub>Hand graphics: [Twemoji](https://github.com/jdecked/twemoji), CC-BY 4.0.</sub>
