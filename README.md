@@ -1,8 +1,11 @@
-<img src="assets/banner.svg" alt="Jaivardhan Singh, AI/ML Engineer" width="100%">
+<picture>
+  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/j-for-jai/j-for-jai/main/assets/hero-mobile.svg">
+  <img src="assets/hero.svg" alt="Jaivardhan Singh. Machine Learning Engineer, LLM Evaluation, AI Systems." width="100%">
+</picture>
 
 B.Tech Data Science (Amity University, Noida, 2027). Four internships done before the first semester of final year. Currently an ML Intern at KAABIL, running the evaluation and cost side of a production LLM stack.
 
-[LinkedIn](https://www.linkedin.com/in/jaivardhan-singh-149432322) · [Email](mailto:jaivardhansingh785@gmail.com) · Noida, India
+<sub><a href="https://www.linkedin.com/in/jaivardhan-singh-149432322">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:jaivardhansingh785@gmail.com">Email</a></sub>
 
 ---
 
@@ -24,11 +27,11 @@ B.Tech Data Science (Amity University, Noida, 2027). Four internships done befor
 
 ## Tech
 
-**Languages:** Python, TypeScript, SQL, C++
-**LLMs & agents:** LangGraph, RAG, MCP, A2A, prompt caching, structured output, Langfuse
-**Models:** AWS Bedrock (Claude, GLM-5), Groq, Gemini, OpenAI, Ollama
-**ML & CV:** PyTorch, scikit-learn, YOLO, OpenCV
-**Backend & data:** NestJS, FastAPI, Redis, BullMQ, PostgreSQL / Prisma, Supabase, ChromaDB, Pinecone
+**Languages:** Python, TypeScript, SQL, C++\
+**LLMs & agents:** LangGraph, RAG, MCP, A2A, prompt caching, structured output, Langfuse\
+**Models:** AWS Bedrock (Claude, GLM-5), Groq, Gemini, OpenAI, Ollama\
+**ML & CV:** PyTorch, scikit-learn, YOLO, OpenCV\
+**Backend & data:** NestJS, FastAPI, Redis, BullMQ, PostgreSQL / Prisma, Supabase, ChromaDB, Pinecone\
 **Cloud & tools:** AWS, Docker, Git, Claude Code
 
 ## Recognition
@@ -37,5 +40,3 @@ B.Tech Data Science (Amity University, Noida, 2027). Four internships done befor
 - Top 20, Celebal Technologies Hackathon
 - Runner-up, university hackathon (₹30,000 prize)
 - [AWS Academy Graduate: Cloud Foundations](https://www.credly.com/badges/a8feac3a-aee4-4bfd-a66e-ef3a5f4e5650/public_url)
-
-<sub>Hand graphics: [Twemoji](https://github.com/jdecked/twemoji), CC-BY 4.0.</sub>
