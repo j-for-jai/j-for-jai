@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/j-for-jai/j-for-jai/main/assets/hero-mobile.svg">
-  <img src="assets/hero.svg" alt="Jaivardhan Singh. Machine Learning Engineer, LLM Evaluation, AI Systems." width="100%">
+  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/j-for-jai/j-for-jai/main/assets/hero-mobile-a21bdca3.svg">
+  <img src="assets/hero-0bebc462.svg" alt="Jaivardhan Singh. Machine Learning Engineer, LLM Evaluation, AI Systems." width="100%">
 </picture>
 
 B.Tech Data Science (Amity University, Noida, 2027). Four internships done before the first semester of final year. Currently an ML Intern at KAABIL, running the evaluation and cost side of a production LLM stack.
